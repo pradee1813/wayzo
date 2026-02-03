@@ -1,0 +1,7 @@
+{
+  "name": "Copy of WAYZO - Smart Tourist Guidance",
+  "description": "A premium AI-powered tourist guidance platform for India, featuring safety-first routing, personalized recommendations, and comprehensive spot details.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
