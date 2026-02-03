@@ -1,0 +1,3 @@
+import "./firebaseConfig";
+
+// ...existing code...
