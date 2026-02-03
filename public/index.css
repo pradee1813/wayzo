@@ -1,0 +1,5 @@
+/* Minimal fallback so /index.css does not 404. Replace with built Tailwind output for production. */
+:root{--nature-green:#2d5a27;--nature-light-green:#e8f5e9;--nature-blue:#0284c7;--nature-earth:#fdfcf8;--forest-dark:#0f1c0f}
+html,body{height:100%;margin:0;padding:0;background:#fdfcf8;color:#0f172a;font-family:'Plus Jakarta Sans',sans-serif}
+.nature-gradient{background:linear-gradient(135deg,#f0fdf4 0%,#fdfcf8 100%)}
+.hidden{display:none}
