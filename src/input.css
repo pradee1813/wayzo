@@ -1,0 +1,6 @@
+/* Tailwind entry for build */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Put any project-specific overrides below */
